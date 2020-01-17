@@ -1,5 +1,5 @@
 {
-    "name": "app",
+    "name": "api",
     "version": "1.0.0",
     "description": "test",
     "main": "app.js",
@@ -37,7 +37,7 @@
         "delay": "2500",
         "env": {
             "NODE_ENV": "development",
-            "PORT": 4000
+            "PORT": 5000
         }
     }
 }
